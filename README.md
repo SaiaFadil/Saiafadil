@@ -6,7 +6,7 @@
 - 👨‍💻 All of my projects are available at [https://saiafadil.github.io/MyPortfolio/index.html](https://saiafadil.github.io/MyPortfolio/index.html)
 
 - 📫 How to reach me **https://linktr.ee/masdhilz**
-
+<img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/saia_fadill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saia_fadill" height="30" width="40" /></a>
