@@ -12,6 +12,9 @@
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saiafadil&label=Profile%20views&color=0e75b6&style=flat" alt="saiafadil" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saiafadil" alt="saiafadil" /></a> </p>
 <h3 align="left">Connect with me:</h3>  
 <a href="https://instagram.com/saia_fadill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saia_fadill" height="30" width="40" /></a>
 </p>
