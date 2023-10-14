@@ -12,10 +12,7 @@
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/saiafadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="saiafadil" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fadillah wahyu nugraha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fadillah wahyu nugraha" height="30" width="40" /></a>
+<h3 align="left">Connect with me:</h3>  
 <a href="https://instagram.com/saia_fadill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saia_fadill" height="30" width="40" /></a>
 </p>
 
