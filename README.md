@@ -1,15 +1,17 @@
 ![](https://komarev.com/ghpvc/?username=SaiaFadil&label=Saia_Fadil+profile+visitor&style=for-the-badge)
-[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](http://www.sukeshrondla.com)
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Fadillah Wahyu Nugraha </h1>
+
+<h1 align="center">👋Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Fadillah Wahyu Nugraha </h1>
 
 <h3 align="center">just a student majoring in informatics engineering</h3>
 
-- </> I’m currently learning **Php,Java**
+- </> I’m currently learning **Java,Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://saiafadil.github.io/MyPortfolio/index.html](https://saiafadil.github.io/MyPortfolio/index.html)
 
 - 📫 How to reach me **https://linktr.ee/masdhilz**
+
+  [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](http://www.sukeshrondla.com)
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 
 
